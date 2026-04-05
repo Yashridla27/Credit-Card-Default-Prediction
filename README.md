@@ -1,4 +1,4 @@
-<img width="863" height="584" alt="Screenshot 2026-04-05 214930" src="https://github.com/user-attachments/assets/ff2b0d47-e8ba-4a13-94cc-4cca6dcaccab" /># Credit Card Default Prediction using Machine Learning
+ Card Default Prediction using Machine Learning
 
 ## Project Overview
 This project predicts whether a customer will default on their credit card payment. The objective is to help financial institutions identify high-risk customers and reduce financial losses.
