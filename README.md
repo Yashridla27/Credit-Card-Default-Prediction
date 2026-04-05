@@ -90,6 +90,14 @@ You can find the dataset used in this project here:
 
 ---
 
+## 📓 Project Notebook
+
+You can view the full implementation here:
+
+[Open Jupyter Notebook](./Credit-Card-Default-Prediction.ipynb)
+
+---
+
 ## Model Saving
 - Saved final model using Joblib (`pipeline_main1.pkl`)  
 
