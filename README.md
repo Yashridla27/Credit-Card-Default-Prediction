@@ -13,7 +13,7 @@ This project predicts whether a customer will default on their credit card payme
 ### Dataset File
 You can find the dataset used in this project here:
 
-[Download Dataset](./default_of_credit_card_clients.xls)
+- <a href="https://github.com/Yashridla27/Credit-Card-Default-Prediction/blob/main/default_of_credit_card_clients.xls">Download Dataset</a>
 
 ---
 
@@ -94,12 +94,14 @@ You can find the dataset used in this project here:
 
 You can view the full implementation here:
 
-[Open Jupyter Notebook](./Credit-Card-Default-Prediction.ipynb)
+- <a href="https://github.com/Yashridla27/Credit-Card-Default-Prediction/blob/main/Credit-Card-Default-Prediction%20.ipynb">View Full Project Notebook</a>
 
 ---
 
 ## Model Saving
-- Saved final model using Joblib (`pipeline_main1.pkl`)  
+Saved final model using Joblib 
+
+- <a href="https://github.com/Yashridla27/Credit-Card-Default-Prediction/blob/main/pipeline_main1.pkl">Final Machine Learning Model</a>
 
 ---
 
