@@ -1,4 +1,4 @@
-# Credit Card Default Prediction using Machine Learning
+<img width="863" height="584" alt="Screenshot 2026-04-05 214930" src="https://github.com/user-attachments/assets/ff2b0d47-e8ba-4a13-94cc-4cca6dcaccab" /># Credit Card Default Prediction using Machine Learning
 
 ## Project Overview
 This project predicts whether a customer will default on their credit card payment. The objective is to help financial institutions identify high-risk customers and reduce financial losses.
@@ -9,7 +9,7 @@ This project predicts whether a customer will default on their credit card payme
 - Source: Credit Card Default Dataset  
 - Features include demographic details, bill amounts, and payment history  
 - Target Variable: Default (Yes/No)
-
+  
 ### Dataset File
 You can find the dataset used in this project here:
 
@@ -76,10 +76,10 @@ You can find the dataset used in this project here:
 ## Model Evaluation
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="683" height="568" alt="Screenshot 2026-04-05 214957" src="https://github.com/user-attachments/assets/165d766c-3d0a-4939-84e3-8b50fcb1d061" />
 
 ### Model Comparison
-![Model Comparison](images/model_comparison.png)
+<img width="863" height="584" alt="Screenshot 2026-04-05 214930" src="https://github.com/user-attachments/assets/6e3a6479-d3eb-4c6a-91b5-ef56180d419f" />
 
 ---
 
