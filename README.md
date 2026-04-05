@@ -1,4 +1,4 @@
- Card Default Prediction using Machine Learning
+# Card Default Prediction using Machine Learning
 
 ## Project Overview
 This project predicts whether a customer will default on their credit card payment. The objective is to help financial institutions identify high-risk customers and reduce financial losses.
