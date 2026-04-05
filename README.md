@@ -10,6 +10,11 @@ This project predicts whether a customer will default on their credit card payme
 - Features include demographic details, bill amounts, and payment history  
 - Target Variable: Default (Yes/No)
 
+### Dataset File
+You can find the dataset used in this project here:
+
+[Download Dataset](./default_of_credit_card_clients.xls)
+
 ---
 
 ## Data Preprocessing
