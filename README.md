@@ -76,14 +76,17 @@ You can find the dataset used in this project here:
 ## Model Evaluation
 
 ### Confusion Matrix
+- Confusion Matrix visualization is based on the CatBoost model (best individual performer)
 <img width="683" height="568" alt="Screenshot 2026-04-05 214957" src="https://github.com/user-attachments/assets/165d766c-3d0a-4939-84e3-8b50fcb1d061" />
 
 ### Model Comparison
+- Model comparison is based on the top-performing models: LightGBM, CatBoost, and the final heterogeneous ensemble model
 <img width="863" height="584" alt="Screenshot 2026-04-05 214930" src="https://github.com/user-attachments/assets/6e3a6479-d3eb-4c6a-91b5-ef56180d419f" />
 
 ---
 
 ## Final Results
+- Final Model: Heterogeneous Ensemble Model (CatBoost + LightGBM)
 - Accuracy: ~77%  
 - Balanced Recall across classes  
 - Robust performance on imbalanced dataset  
